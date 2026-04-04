@@ -1,0 +1,7 @@
+pandas
+openpyxl
+python-pptx
+pdf2image
+qrcode[pil]
+comtypes
+tqdm

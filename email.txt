@@ -1,0 +1,11 @@
+Subject: Congratulations {{Name}}! 🎉
+
+Hi {{Name}},
+
+We are thrilled to inform you that your participation in the event has been recognized!
+Please find your personalized certificate attached to this email.
+
+Keep up the great work and we hope to see you at future events!
+
+Warm regards,
+Event Team
